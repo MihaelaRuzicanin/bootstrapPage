@@ -1,0 +1,39 @@
+.navbar .navbar-brand{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.p-5 .naslov{
+    text-align: center;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+.p-5 p{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.p-5  .card p, h5{
+    text-align: center;
+    padding-bottom: 15px;
+    color: #fff;
+}
+.p-5 .card .card-body{
+    background-color: #212529;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+.p-5 .card .card-body:hover{
+        background: #3a3f44;
+        cursor: pointer;
+        margin-top: -10px;
+        -webkit-box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.9);
+        -moz-box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.9);
+        box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.9);
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
